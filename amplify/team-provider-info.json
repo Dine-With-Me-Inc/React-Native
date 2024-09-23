@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dinewithme-staging-cdf08-authRole",
+      "UnauthRoleArn": "arn:aws:iam::746669205697:role/amplify-dinewithme-staging-cdf08-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::746669205697:role/amplify-dinewithme-staging-cdf08-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-dinewithme-staging-cdf08-deployment",
+      "UnauthRoleName": "amplify-dinewithme-staging-cdf08-unauthRole",
+      "StackName": "amplify-dinewithme-staging-cdf08",
+      "StackId": "arn:aws:cloudformation:us-west-1:746669205697:stack/amplify-dinewithme-staging-cdf08/50ac3410-791d-11ef-9140-064c6ed428cd",
+      "AmplifyAppId": "d1tb1einx01oxl"
+    },
+    "categories": {
+      "auth": {
+        "DineWithMe": {}
+      }
+    }
+  }
+}
